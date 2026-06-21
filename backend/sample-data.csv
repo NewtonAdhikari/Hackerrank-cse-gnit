@@ -1,0 +1,25 @@
+id,name,position,photo,department,branch,year,linkedin,github,email
+L1,Dr. Rajesh Kumar,Faculty Coordinator 1,https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&crop=faces,Computer Science & Engineering,CSE,Faculty,https://linkedin.com/in/rajeshkumar,https://github.com/rajeshkumar,rajesh.kumar@gnit.ac.in
+L2,Prof. Sunita Sharma,Faculty Coordinator 2,https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop&crop=faces,Information Technology,IT,Faculty,https://linkedin.com/in/sunitasharma,https://github.com/sunitasharma,sunita.sharma@gnit.ac.in
+L3,Arjun Mehta,President,https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=faces,Computer Science & Engineering,CSE,4th Year,https://linkedin.com/in/arjunmehta,https://github.com/arjunmehta,arjun.mehta@gnit.ac.in
+
+=== Members ===
+id,name,roll,branch,year,role,photo
+M1,Aarav Sharma,22GNCSE1001,CSE,3rd Year,Member,https://i.pravatar.cc/300?img=100
+M2,Saanvi Reddy,22GNIT1002,IT,2nd Year,Senior Member,https://i.pravatar.cc/300?img=101
+
+=== Events ===
+id,title,slug,banner,description,date,venue,status,registration_link
+E1,Hackathon GNIT 2026,hackathon-gnit-2026,https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=1200&h=600&fit=crop,A 36-hour hackathon,2026-07-15,GNIT Main Auditorium,upcoming,#
+E2,AI & ML Bootcamp,ai-ml-bootcamp-2026,https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&h=600&fit=crop,5-day intensive bootcamp,2026-08-10,Computer Lab 3,upcoming,#
+
+=== Gallery ===
+id,title,type,url,event
+G1,Hackathon 2025 - Opening,photo,https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&h=600&fit=crop,Hackathon GNIT 2025
+G2,Coding in Progress,photo,https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=800&h=1000&fit=crop,Hackathon GNIT 2025
+
+=== Achievements ===
+id,title,description,year,image,category
+A1,Smart India Hackathon Winners 2025,Team CodeBreakers won SIH 2025,2025,https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=600&h=400&fit=crop,hackathon
+
+Note: The "category" column is not in the standard Achievements schema but is used by the frontend for filtering. Add it as an extra column.
