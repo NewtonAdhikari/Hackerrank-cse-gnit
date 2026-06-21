@@ -139,7 +139,7 @@ export const leaders: Leader[] = [
     id: 'L12',
     name: 'S.Vishwasree',
     position: 'Documentation Head',
-    photo: '/Team Members/viswa.JPG',
+    photo: '/Team Members/viswa.jpg',
     department: 'Computer Science & Engineering',
     branch: 'CSE',
     year: '4th Year',
